@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": schoolsmpbaa.aternos.me,
+    "ip": "schoolsmpbaa.aternos.me",
     "port": 35759,
     "version": "",
     "try-creative": false
